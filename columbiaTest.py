@@ -17,7 +17,7 @@ import pandas as pd
 from selenium.webdriver.support.ui import Select
 
 #import numpy as np
-f = open('C:/Users/Harrison Du/Desktop/scrape/nyu.csv', 'w',newline='', encoding="utf-8")
+f = open('C:/Users/Harrison Du/Desktop/scrape/columbia.csv', 'w',newline='', encoding="utf-8")
 writer=csv.writer(f, delimiter=' ', quotechar='|', quoting=csv.QUOTE_MINIMAL)
 
 
